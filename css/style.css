@@ -309,6 +309,7 @@ header a{
 
 /*section 4*/
 .section4{
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -508,6 +509,7 @@ footer .nav1 nav ul li a {
     margin: 10%;
 }
 .section4{
+    height: 100vh;
     flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
@@ -522,8 +524,15 @@ footer .nav1 nav ul li a {
 footer .nav ul{
     display: none;
 }
+
+.section4 .bloco1{
+    width: 80%;
+    background-color: #fff;
+    
+}
+
 .section4 .bloco2{
-    margin-top: 10%;
+    margin-top: 5%;
     width: 50%;
 }
 
