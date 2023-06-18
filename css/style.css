@@ -511,6 +511,7 @@ footer .nav1 nav ul li a {
     flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
+    margin: auto;
 
 }
 .section4 form{
