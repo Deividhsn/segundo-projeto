@@ -516,14 +516,7 @@ footer .nav1 nav ul li a {
     margin: auto;
 
 }
-.section4 form{
-    justify-content: center;  
 
-}
-
-footer .nav ul{
-    display: none;
-}
 
 .section4 .bloco1{
     width: 80%;
@@ -534,6 +527,11 @@ footer .nav ul{
 .section4 .bloco2{
     margin-top: 5%;
     width: 50%;
+    justify-content: center;  
+    align-items: center;
+}
+footer .nav ul{
+    display: none;
 }
 
 }
