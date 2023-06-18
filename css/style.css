@@ -520,9 +520,13 @@ footer .nav1 nav ul li a {
 
 .section4 .bloco1{
     width: 80%;
-    background-color: #fff;
-    justify-content: center;
+    align-items: center;
+    text-align: center;
     
+}
+.section4 .bloco1 p{
+    justify-content: center;
+    width: 80%;
 }
 
 .section4 .bloco2{
