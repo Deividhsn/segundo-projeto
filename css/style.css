@@ -509,7 +509,7 @@ footer .nav1 nav ul li a {
     margin: 10%;
 }
 .section4{
-    height: 80vh;
+    height: 100%;
     flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
